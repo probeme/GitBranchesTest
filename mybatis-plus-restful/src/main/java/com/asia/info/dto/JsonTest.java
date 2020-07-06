@@ -8,4 +8,5 @@ package com.asia.info.dto;
  */
 public class JsonTest {
     private String name;
+    private Integer age;
 }
